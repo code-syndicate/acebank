@@ -31,7 +31,7 @@ function Header({ user }) {
         <div className="relative hidden lg:block ">
           <input className="field" type="text" placeholder="Search" />
 
-          <BsSearch className="text-text1/80 text-lg absolute top-[50%] right-[5%] text-text1 -translate-x-1/2 -translate-y-1/2" />
+          <BsSearch className="text-text1/80 text-lg absolute lg:hidden top-[50%] right-[5%] text-text1 -translate-x-1/2 -translate-y-1/2" />
         </div>
       </div>
       <div className="flex flex-row justify-between items-center space-x-4 lg:space-x-8">

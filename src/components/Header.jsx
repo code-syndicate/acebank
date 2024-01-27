@@ -25,7 +25,7 @@ function Header({ user }) {
       </div>
       <div className="hidden lg:flex flex-row justify-between lg:w-[50%] xl:w-[40%]">
         <div className="">
-          <img src={LogoImage} alt="Logo" className="w-40" />
+          <img src={LogoImage} alt="Logo" className="w-10" />
         </div>
 
         <div className="relative hidden lg:block ">

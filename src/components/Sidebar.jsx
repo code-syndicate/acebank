@@ -109,7 +109,7 @@ function Sidebar() {
               </div>
 
               <div className="">
-                <img src={LogoImage} alt="Logo" className="w-10" />
+                <img src={LogoImage} alt="Logo" className="w-20" />
               </div>
 
               {items.map((v, i) => {

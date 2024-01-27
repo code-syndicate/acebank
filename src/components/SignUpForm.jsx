@@ -97,7 +97,7 @@ function SignInForm() {
                 Register a new account
               </legend>
               <div className="">
-                <img src={LogoImage} alt="Logo" className="w-40" />
+                <img src={LogoImage} alt="Logo" className="w-10" />
               </div>
 
               <div className="w-full">

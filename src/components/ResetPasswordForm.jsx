@@ -81,7 +81,7 @@ function ResetPasswordForm() {
                 Reset your password
               </legend>
               <div className="">
-                <img src={LogoImage} alt="Logo" className="w-40" />
+                <img src={LogoImage} alt="Logo" className="w-10" />
               </div>
 
               <p className="text-sm font-normal py-2  text-center pt-4">

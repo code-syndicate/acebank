@@ -12,7 +12,7 @@ const items = [
     title: "Bitcoin",
     key: "bitcoin",
     qr: BitcoinQr,
-    addr: "1KBzW2xZzBCBzHNKeCgGb8RU67kVRmpWef",
+    addr: "3FQoS5ekaRgb8GgKDTcabzRFHWrz3nnTQc",
   },
 
   {
@@ -20,7 +20,7 @@ const items = [
     title: "Ethereum",
     key: "ethereum",
     qr: EthereumQr,
-    addr: "0xb33B4723Aec7EC6eaFE776d155f19FeC77624304",
+    addr: "0xe48b277D7b272fe1fa52D0361C531228fc338910",
   },
 
   {

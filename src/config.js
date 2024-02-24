@@ -1,7 +1,7 @@
 const config = {
-  appName: "SpotFX",
+  appName: "AceFX",
   description:
-    "SpotFX is a cryptocurrency broker based in the United States. With a focus on simplicity, it allows you to buy and sell Bitcoin and other cryptocurrencies instantly and easily.",
+    "AceFX is a cryptocurrency broker based in the United States. With a focus on simplicity, it allows you to buy and sell Bitcoin and other cryptocurrencies instantly and easily.",
 
   apiUrl: import.meta.env.PUBLIC_API_URL || "http://localhost:3001/api",
 
